@@ -1,0 +1,39 @@
+*{
+font-family: 'Roboto', sans-serif;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.bg-color-header{
+    background: rgb(99, 114, 204);
+}
+.navbar-brand {
+    max-width: 4em;
+}
+
+.carousel-control-prev{
+    font-size: 4rem;
+    color: cadetblue;
+}
+.carousel-control-next{
+    font-size: 4rem;
+    color: cadetblue;
+}
+
+.bi-cart4{
+    font-size: 5rem;
+}
+
+.bi-building{
+    font-size: 5rem;
+}
+
+.bi-house-heart-fill{
+    font-size: 5rem;
+}
+
+.bi-map{
+    font-size: 5rem;
+}
