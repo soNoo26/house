@@ -2,38 +2,64 @@
 font-family: 'Roboto', sans-serif;
 }
 
+
 body{
     overflow-x: hidden;
+    background-color: #07393C;
 }
 
+
 .bg-color-header{
-    background: rgb(99, 114, 204);
+    background:#2C666E;
 }
+
+
 .navbar-brand {
     max-width: 4em;
 }
 
+
 .carousel-control-prev{
     font-size: 4rem;
-    color: cadetblue;
+    color:#0F084B;
 }
+
+
 .carousel-control-next{
     font-size: 4rem;
-    color: cadetblue;
+    color: #0F084B;
 }
+
 
 .bi-cart4{
     font-size: 5rem;
+
 }
+
 
 .bi-building{
     font-size: 5rem;
 }
 
+
 .bi-house-heart-fill{
     font-size: 5rem;
 }
 
+
 .bi-map{
     font-size: 5rem;
+}
+
+
+#cartao{
+    margin-top: -4rem;
+    color:#2C666E;
+    border-color: #07393C;
+    border-radius: 2rem;
+    border-width: 5px;
+}
+h5{
+    color: black;
+    font-size: 2rem;
 }
