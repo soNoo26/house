@@ -53,13 +53,24 @@ body{
 
 
 #cartao{
-    margin-top: -4rem;
+    margin-top: -6.4rem;
     color:#2C666E;
     border-color: #07393C;
     border-radius: 2rem;
     border-width: 5px;
 }
 h5{
-    color: black;
-    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    font-size: 5rem;
+    text-shadow:2px 2px 5px #0F084B;
+}
+
+@media (max-whidth:700px) {
+    .mini-banners {
+        margin-top: 3em; 
+    }
+}
+
+.texto-primario{
+    color: whitesmoke;
 }
